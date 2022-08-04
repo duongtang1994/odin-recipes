@@ -1,2 +1,2 @@
 # odin-recipes
-#This project is an introduction to HTML and the topic is on recipes! I made my own webpage and in it has three different recipes. Here, I've demonstrated basic HTML knowledge and basic git commands and how to write comments when using the commit command for git.
+#This project is an introduction to HTML and CSS, where my main focus is creating a recipes webpage! In this webpage contains three recipes of the most common food. I started out with some HTML and eventually started to learn CSS to add some life onto the webpage.
